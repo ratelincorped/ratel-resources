@@ -1,0 +1,15 @@
+[submodule "comment-server"]
+	path = comment-server
+	url = https://github.com/ratelincorped/comment-server.git
+[submodule "reaction-server"]
+	path = reaction-server
+	url = https://github.com/ratelincorped/reaction-server.git
+[submodule "media-server"]
+	path = media-server
+	url = https://github.com/ratelincorped/media-server.git
+[submodule "notification-server"]
+	path = notification-server
+	url = https://github.com/ratelincorped/notification-server.git
+[submodule "category-server"]
+	path = category-server
+	url = https://github.com/ratelincorped/category-server.git
